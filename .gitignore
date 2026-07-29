@@ -1,9 +1,8 @@
 
-# .tfstate files
+*.tfstate files
 *.tfstate
 *.tfstate.*
-
-# Crash log files
+ Crash log files
 crash.log
 crash.*.log
 
